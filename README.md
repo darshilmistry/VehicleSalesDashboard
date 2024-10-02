@@ -1,8 +1,16 @@
 # Vehicle Sales Dashboard.
 
-![oh...o Image ain't loading😅](./Dashboard_ScreenShot.png)
-
 This is a personal project that focuses on data analysis and the success metric is the creation of a fully functional, dynamic data dashboard using different python libraries.
+
+## Dashboard Screenshots
+
+### General Statistics
+
+![oh...o Image ain't loading😅](./GeneralStatistics.png)
+
+### Brand Statistics
+
+![oh...o Image ain't loading😅](./BrandStatistics.png)
 
 ## The dataset
 
