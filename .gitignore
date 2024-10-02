@@ -1,2 +1,3 @@
-DAenv/
+DAEnv/
+__pycache__/
 cleanedData.csv
